@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PokemonCarmelo</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Name</string>
+    <string name="type">Type</string>
+
+    <string name="ErrorSeleccionarFoto">Debes seleccionar una foto</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="tipos">
+
+        <item>Fuego</item>
+        <item>bicho</item>
+        <item>Siniestro</item>
+        <item>Dragón</item>
+        <item>Eléctrico</item>
+        <item>Hada</item>
+        <item>Lucha</item>
+        <item>Volador</item>
+        <item>Fantasma</item>
+        <item>Planta</item>
+        <item>Tierra</item>
+        <item>Hielo</item>
+        <item>Normal</item>
+        <item>Veneno</item>
+        <item>psíquico</item>
+        <item>Roca</item>
+        <item>Acero</item>
+        <item>Agua</item>
+
+    </string-array>
+
+</resources>
